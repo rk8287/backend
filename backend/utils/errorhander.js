@@ -7,4 +7,4 @@ class errorhander extends Error{
     }
 }
 
-module.exports = errorHander
+module.exports = errorhander
